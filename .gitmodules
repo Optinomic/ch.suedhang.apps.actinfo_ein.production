@@ -1,3 +1,6 @@
 [submodule "lib"]
 	path = lib
 	url = https://github.com/Optinomic/lib.git
+[submodule "ch.suedhang.apps.actinfo_ein"]
+	path = ch.suedhang.apps.actinfo_ein
+	url = git@github.com:Optinomic/ch.suedhang.apps.actinfo_ein.git
