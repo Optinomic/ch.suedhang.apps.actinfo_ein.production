@@ -16,4 +16,4 @@ act-info wird durch das Bundesamt für Gesundheit BAG finanziert und koordiniert
 - Substanzkonsum vor Eintritt (Substanz + Häufigkeit)
 - Zusatzangaben vor Eintritt (Hauptproblemsubstanz)
 - AUDIT-Summenwert (Verdacht auf Alkoholabhängigkeit)
-- Fagerström-Summenwert (Ausprägung der Nikotinabhängigkeit)...
+- Fagerström-Summenwert (Ausprägung der Nikotinabhängigkeit)
