@@ -51,11 +51,3 @@ due_after = 259200
 overdue = ignore
 description = actInfo - Eintritt
 survey = actinfo_eintritt
-
-
-
-[sql_init]
-__opapp_include(includes/create_view_production.sql)
-
-[sql_init]
-__opapp_include(includes/create_view_audit.sql)
